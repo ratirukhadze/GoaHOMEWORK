@@ -1,5 +1,0 @@
-name = input('Enter your name: ')
-last_name = input('Enter your last name: ')
-dog_name = input('Enter your dog name: ')
-cat_name = input('Enter your cat name: ')
-print(name, last_name, dog_name, cat_name)
