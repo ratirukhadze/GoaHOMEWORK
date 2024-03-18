@@ -1,3 +1,7 @@
+#შემოიტანეთ თქვენი ოჯახის წევრების ასაკი და დაუპრინტეთ თუ რამდენი წლისები იქნებიან 25 წლის შემდეგ
+
+
+
 mom = int(input('Enter your age: '))
 dad = int(input('Enter your age: '))
 grandmother = int(input('Enter your age: '))
